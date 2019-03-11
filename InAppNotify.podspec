@@ -8,7 +8,7 @@ s.summary = "Swift library to manage in app notification in swift language, like
 s.requires_arc = true
 
 # 2
-s.version = "0.1.4"
+s.version = "0.1.5"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -17,10 +17,10 @@ s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Becchetti Luca" => "luca.becchetti@brokenice.it" }
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-s.homepage = "https://github.com/lucabecchetti/InAppNotify"
+s.homepage = "https://github.com/Swift-Yah/InAppNotify"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/lucabecchetti/InAppNotify.git", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/Swift-Yah/InAppNotify.git", :tag => "#{s.version}"}
 
 # 7
 s.framework = "UIKit"
