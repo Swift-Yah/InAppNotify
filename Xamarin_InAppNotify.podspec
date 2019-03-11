@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 # 1
 s.platform = :ios
 s.ios.deployment_target = '8.0'
-s.name = "InAppNotify"
+s.name = "Xamarin_InAppNotify"
 s.summary = "Swift library to manage in app notification in swift language, like WhatsApp, Telegram, Frind, ecc."
 s.requires_arc = true
 
